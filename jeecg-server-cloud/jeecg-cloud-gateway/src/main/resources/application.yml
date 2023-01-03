@@ -30,7 +30,7 @@ spring:
     #Sentinel配置
     sentinel:
       transport:
-        dashboard: jeecg-boot-sentinel:9000
+        dashboard: jeecg-boot-sentinel:9001
       # 支持链路限流
       web-context-unify: false
       filter:

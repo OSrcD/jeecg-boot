@@ -16,6 +16,13 @@
             <groupId>org.jeecgframework.boot</groupId>
             <artifactId>jeecg-boot-base-core</artifactId>
         </dependency>
+
+        <!--rabbitmq消息队列-->
+        <dependency>
+            <groupId>org.jeecgframework.boot</groupId>
+            <artifactId>jeecg-boot-starter-rabbitmq</artifactId>
+        </dependency>
     </dependencies>
+
 
 </project>
